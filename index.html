@@ -3,22 +3,41 @@
 <head>
     <meta charset="UTF-8">
     <title>Ma version IMDB</title>
+    <script src="https://kit.fontawesome.com/e3ddf954eb.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div id="container">
         <!-- * =>étoiles pour voter sur les animes-->
-        <main>
-            <!--menu ici les grds catégories : (actualités, communauté,à propos, nouveautés, recherche,catalogue, watchlist-->
+        <div id="top">
+            <div>
+                <a href="#" title="menu"><i class="fas fa-bars"></i></a>
+                <a href="#" title="logoSite"><img src="ing/logo.png" alt="photo site"></a>
+            </div>
+            <a href="#" title="scearch"><label><input type="text" placeholder="Recherche" name="scearch"></label><i class="fas fa-search"></i></a>
+            <a href="#" title="connect"><button type="submit">S'inscrire</button></a>
+            <a href="#" title="connect"><button type="submit">Se connecter</button></a>
+        </div>
+        <div id="left" class="linkHidden">
+            <ul>
+                <li><a  href="#" title="news">Nouveautés</a></li>
+                <li><a  href="#" title="news">Actualités</a></li>
+                <li><a  href="#" title="news">Catalogue</a></li>
+                <li><a  href="#" title="news"><i class="fas fa-plus-square"> Watchlist</i></a></li>
+                <li><a  href="#" title="news">Communautés</a></li>
+                <li><a  href="#" title="news">A propros</a></li>
+            </ul>
+
             <!--sous menu :
                 nouveautés => toutes les dernières sorties
-                recherche => barre de recherche
-                actualités => agenda des sorties,auteurs bref bio,actu manga à venir
+                actualités => agenda des sorties <i class="far fa-calendar-alt"></i> ,auteurs bref bio,actu manga à venir
                 communauté => (forum pas tout de suite, car il faut du SQL)
                 à propros => aide, infos légales
                 catalogue => classements  animes par genres (action,aventure,drame,fantaisy,enfants, par années,...)
                 watchlist => liste des animes que user veut
+                 ajouter un anime<i class="far fa-heart"></i>
              -->
-        </main>
+        </div>
         <section>
         <!--ici se touvera  les catégories par genre
          articles : les + populaires (top 10), dernières sorties, en cours,action,drame-->
@@ -27,5 +46,6 @@
             <!--liknk facebook,twitter,youtube,discord-->
         </footer>
     </div>
+    <script src="app.js"></script>
 </body>
 </html>

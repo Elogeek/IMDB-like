@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+#container {
+    height: 100%;
+    width: 100%;
+}
+
+#top {
+    display:flex;
+    justify-content: space-between;
+    border: 3px inset #23b5b5;
+}
+
+#left {
+    display:flex;
+    flex-flow: column;
+    justify-content: flex-start;
+    width: 8%;
+    height: 100%;
+    background-color: black;
+}
+
+.linkHidden a {
+    color: white;
+    text-decoration-line: none;
+}
+
+.linkHidden a:hover {
+    color: #23b5b5;
+}
+
+img {
+    width: 20%;
+}
+
