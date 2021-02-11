@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+    font-size: 2rem;
+    background: #000;
+}
+
+nav {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-flow: row nowrap;
+    width: 100%;
+    height: 6rem;
+    color: white;
+    background-color: #1f1f1f;
+    justify-content: center;
+    align-content: center;
+    font-size: 1.5rem;
+}
+
+nav div {
+    display: inline-block;
+}
+
+#menu, #pro, #watchList1, #signIn {
+    border-radius: .3rem;
+    padding: 1.5rem;
+    margin: 1rem;
+}
+
+nav div:hover {
+    background-color: #323232;
+}
+
+#text {
+    position: relative;
+    bottom: .7rem;
+}
+
+#logoMenu {
+    width: 6rem;
+    height: 3.1rem;
+    padding: .5rem;
+    border-radius: 0.5rem;
+    font-size: 2rem;
+    margin-top: 1.4rem;
+}
+
+#customSearchBar {
+    width: 45%;
+    background-color: white;
+    color: #1d1d1d;
+    height: 3.5rem;
+    border-radius: .5rem;
+    margin-top: 1.4rem;
+    overflow: hidden;
+    vertical-align: center;
+}
+
+select {
+    border: none;
+    border-right: 1px solid #989898;
+    height: 4rem;
+    position: relative;
+    top: -.3rem;
+}
+
+#custom-select {
+    margin: 0;
+    vertical-align: center;
+}
+
+.fas.fa-search {
+    margin-top: 0.5rem;
+    margin-left: 5rem;
+    color: #989898;
+}
+
+#searchBar {
+    width: 77%;
+    height: 3.5rem;
+    font-size: 2rem;
+    outline: none;
+    border: none;
+    vertical-align: center;
+}
+
+select, option {
+    font-weight: bold;
+}
+
+#line {
+    border: 1px solid #989898;
+    width: 2px;
+    height: 3.2rem;
+    margin-top: 1.4rem;
+    opacity: 0.16;
+}
+

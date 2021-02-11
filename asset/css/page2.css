@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+#container{
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    background-color: #1f1f1f;
+    z-index: 100;
+    position: absolute;
+    top: -105vh;
+    transition-duration: .7s;
+}
+
+#container i{
+    color: #23b5b5;
+    position: relative;
+    left: -2rem;
+}
+
+#top{
+    padding-right: 20%;
+    padding-left: 15%;
+}
+
+#logoMenu {
+    width: 6%;
+    height: 1%;
+    font-size: 2rem;
+    float: left;
+    padding: 0;
+    margin: 0;
+}
+
+#exit {
+    margin-top: 3.5rem;
+    color: #23b5b5;
+}
+
+#exit{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 100rem;
+    font-size: 3.5rem;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    float: right;
+}
+
+#genre {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-evenly;
+    height: 105vh;
+    color: white;
+}
+
+#genre a {
+    text-decoration-line: none;
+    color: white;
+    line-height: 2.9rem;
+    font-size: 1.6rem;
+}
+
+#genre h1 {
+    position: relative;
+    left: -3.8rem;
+    margin-bottom: 1rem;
+    font-size: 1.8em;
+}
+
+#firstRow, #secondRow {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    width: 100%;
+}
+
+ul li {
+    list-style-type: none;
+}
