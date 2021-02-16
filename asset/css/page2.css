@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
 #container{
     font-family: 'Roboto', sans-serif;
@@ -10,20 +15,20 @@
     transition-duration: .7s;
 }
 
-#container i{
+#container i {
     color: #23b5b5;
     position: relative;
     left: -2rem;
 }
 
-#top{
+#top {
     padding-right: 20%;
     padding-left: 15%;
 }
 
 #logoMenu {
-    width: 6%;
-    height: 1%;
+    width: 7%;
+    height: 5%;
     font-size: 2rem;
     float: left;
     padding: 0;
@@ -35,7 +40,7 @@
     color: #23b5b5;
 }
 
-#exit{
+#exit {
     width: 5rem;
     height: 5rem;
     border-radius: 100rem;
@@ -67,7 +72,11 @@
     position: relative;
     left: -3.8rem;
     margin-bottom: 1rem;
-    font-size: 1.8em;
+    font-size: 1.5em;
+}
+
+#genre h1 i {
+    font-size: 2.4rem;
 }
 
 #firstRow, #secondRow {
@@ -79,4 +88,21 @@
 
 ul li {
     list-style-type: none;
+}
+
+/*carrousel*/
+.container-carousel {
+    width: 50%;
+    float: right;
+}
+
+#title-carousel {
+    font-size: 2rem;
+    color: white;
+    font-weight: bold;
+    text-align: justify;
+}
+
+#manga1, #manga2, #manga3 {
+    height: 260px;
 }

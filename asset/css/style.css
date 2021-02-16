@@ -36,7 +36,7 @@ nav div {
 #menu, #pro, #watchList1, #signIn {
     border-radius: .3rem;
     padding: 1.5rem;
-    margin: 1rem;
+    font-size: 1.5rem;
 }
 
 nav div:hover {
@@ -46,6 +46,7 @@ nav div:hover {
 #text {
     position: relative;
     bottom: .7rem;
+    vertical-align: bottom;
 }
 
 #logoMenu {
@@ -108,3 +109,6 @@ select, option {
     opacity: 0.16;
 }
 
+svg {
+    vertical-align: baseline;
+}
