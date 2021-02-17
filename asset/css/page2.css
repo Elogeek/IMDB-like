@@ -113,12 +113,13 @@ ul li {
     overflow: hidden;
 }
 
+/*les barres de défilement*/
 .carousel-indicators {
     position: absolute;
     right: 0;
-    bottom: 0;
+    bottom: 10px;
     left: 0;
-    z-index: 2;
+    z-index: 20;
     display: flex;
     justify-content: center;
     padding-left: 0;
@@ -135,28 +136,24 @@ ul li {
     height: 3px;
     margin-right: 3px;
     margin-left: 3px;
-    text-indent: -999px;
     cursor: pointer;
     background-color: #fff;
     background-clip: padding-box;
     border-top: 10px solid transparent;
     border-bottom: 10px solid transparent;
-    opacity: .5;
     transition: opacity .6s ease;
 }
 
 #manga1, #manga2, #manga3 {
-    height: 260px;
+    height: 273px;
 }
 
 /* 2 carousel*/
 .carouselContainer {
     float: left;
     width: 53%;
-    margin-top: 3rem;
     padding-left: 3rem;
-    color:white;
-    background-color: #23b5b5;
+    color: #23b5b5;
     text-align: left;
 }
 
@@ -165,6 +162,7 @@ ul li {
     font-style: italic;
 }
 
+/*synopsis*/
 #title-carsl {
     margin-top: 1rem;
     font-size: 2rem;
@@ -177,4 +175,18 @@ ul li {
     z-index: 10;
     opacity: 1;
     padding: 2rem;
+}
+
+/*les barres de défilement*/
+.carousel-indicators {
+    position: absolute;
+    right: 0;
+    bottom: 7px;
+    left: 0;
+    z-index: 20;
+    padding-left: 0;
+    margin-right: 15%;
+    margin-left: 15%;
+    list-style: none;
+    opacity: 1;
 }
