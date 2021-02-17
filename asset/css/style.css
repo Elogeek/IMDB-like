@@ -58,6 +58,11 @@ nav div:hover {
     margin-top: 1.4rem;
 }
 
+.logo {
+    width: 16rem;
+    height: 4vw;
+}
+
 #customSearchBar {
     width: 45%;
     background-color: white;

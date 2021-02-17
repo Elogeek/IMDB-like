@@ -1,6 +1,6 @@
 <nav>
-    <div id="logo">
-        <img src="../asset/img/logo.png" alt="photo site">
+    <div class="logo">
+        <img src="../asset/img/logo.png" alt="photo site" class="logo">
     </div>
     <div id="menu">
         <i class="fas fa-bars"></i>

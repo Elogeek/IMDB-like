@@ -32,7 +32,7 @@
     font-size: 2rem;
     float: left;
     padding: 0;
-    margin: 0;
+    margin-top: 2%;
 }
 
 #exit {
@@ -94,6 +94,7 @@ ul li {
 .container-carousel {
     width: 50%;
     float: right;
+    margin-top: 8rem;
 }
 
 #title-carousel {
@@ -103,6 +104,77 @@ ul li {
     text-align: justify;
 }
 
+.carousel-indicators .active {
+    opacity: 1;
+}
+
+.carousel-inner {
+    width: 92%;
+    overflow: hidden;
+}
+
+.carousel-indicators {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    padding-left: 0;
+    margin-right: 15%;
+    margin-left: 15%;
+    list-style: none;
+    opacity:1;
+}
+
+.carousel-indicators li {
+    box-sizing: content-box;
+    flex: 0 auto;
+    width: 30px;
+    height: 3px;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #fff;
+    background-clip: padding-box;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    opacity: .5;
+    transition: opacity .6s ease;
+}
+
 #manga1, #manga2, #manga3 {
     height: 260px;
+}
+
+/* 2 carousel*/
+.carouselContainer {
+    float: left;
+    width: 53%;
+    margin-top: 3rem;
+    padding-left: 3rem;
+    color:white;
+    background-color: #23b5b5;
+    text-align: left;
+}
+
+/*titre manga*/
+.carouselContainer h2 {
+    font-style: italic;
+}
+
+#title-carsl {
+    margin-top: 1rem;
+    font-size: 2rem;
+    color: white;
+    font-weight: bold;
+    text-align: justify;
+}
+
+.carousel-fade .carousel-item.active {
+    z-index: 10;
+    opacity: 1;
+    padding: 2rem;
 }
