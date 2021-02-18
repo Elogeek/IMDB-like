@@ -16,13 +16,13 @@
 
                         <!-- Carrousel -->
                         <div class="carousel-inner">
-                            <div class="carousel-item active" data-interval="4000">
+                            <div class="carousel-item active" data-interval="5000">
                                 <img src="../asset/img/img1.jpg" alt="Carrousel slide 1" class="d-block w-100" id="manga1">
                             </div>
-                            <div class="carousel-item" data-interval="2000">
+                            <div class="carousel-item" data-interval="4000">
                                 <img src="../asset/img/img2.png" alt="Carrousel slide 2" class="d-block w-100" id="manga2">
                             </div>
-                            <div class="carousel-item" data-interval="1000">
+                            <div class="carousel-item" data-interval="2500">
                                 <img src="../asset/img/img3.jpg" alt="Carrousel slide 3" class="d-block w-100" id="manga3">
                             </div>
                         </div>

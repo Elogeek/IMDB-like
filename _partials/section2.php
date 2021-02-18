@@ -16,7 +16,7 @@
 
                         <!-- Carrousel -->
                         <div class="carousel-inner">
-                            <div class="carousel-item active" data-interval="4000">
+                            <div class="carousel-item active" data-interval="5000">
                                 <h2>The Rising of the Shield Hero</h2>
                                 <p>
                                     Naofumi est projeté dans un monde proche en tout lieu d’un jeu de rôle d’heroic fantasy.
@@ -26,7 +26,7 @@
                                     En clair, comment va t'il sortir de ce bourbier inextricable?
                                 </p>
                             </div>
-                            <div class="carousel-item" data-interval="2000">
+                            <div class="carousel-item" data-interval="4000">
                                 <h2>Jujutsu Kaisen</h2>
                                 <p>
                                     Souffrance, regrets, humiliations... les sentiments négatifs que ressentent les humains se transforment peu à peu en fléaux se cachant dans notre existence.
@@ -37,12 +37,14 @@
                                 </p>
 
                             </div>
-                            <div class="carousel-item" data-interval="1000">
+                            <div class="carousel-item" data-interval="2500">
                                 <h2>The Promised Neverland</h2>
                                 <p>
                                     Emma, Norman et Ray coulent des jours heureux à l’orphelinat Grace Field House.
-                                    Entourés de leurs petits frères et soeurs, ils s’épanouissent sous l’attention pleine de tendresse de « Maman », qu'ils considèrent comme leur véritable mère.
-                                    Mais tout bascule le soir où ils découvrent l’abominable réalité qui se cache derrière la façade de leur vie paisible !
+                                    Entourés de leurs petits frères et soeurs,tous orphelins, ont été placés dans un établissement spécialisé lorsqu'ils étaient tout jeunes.
+                                    Bien que leur liberté soit limitée et que les règles soient parfois un peu strictes, les enfants mènent une vie heureuse,
+                                    ils s’épanouissent sous l’attention pleine de tendresse de « Maman », qu'ils considèrent comme leur véritable mère.
+                                    Mais tout bascule un soir après le départ d'une des leurs, où ils découvrent l’abominable réalité qui se cache derrière la façade de leur vie paisible !
                                     Ils doivent s’échapper, c’est une question de vie ou de mort !
                                 </p>
                             </div>
