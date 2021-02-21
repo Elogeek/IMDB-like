@@ -7,14 +7,9 @@ document.getElementById("exit").addEventListener("click", ()=>{
 });
 
 
-//splide
-new Splide( '.splide' ).mount();
-document.addEventListener( 'DOMContentLoaded', function () {
-    new Splide( '.splide' ).mount();
-} );
-
-new Splide( '.splide' ).mount();
-let elms = document.getElementsByClassName( 'splide' );
-for ( let i = 0, len = elms.length; i < len; i++ ) {
-    new Splide( elms[ i ] ).mount();
-}
+// Splide
+new Splide( '.splide', {
+    cover  : true,
+    height : '8rem',
+    perPage: 3,
+} ).mount();
