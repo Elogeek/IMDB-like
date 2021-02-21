@@ -56,3 +56,16 @@
 
         </div>
     </div>
+
+    <!--article-->
+    <div class="splide">
+        <div class="splide__track">
+            <ul class="splide__list">
+                <li class="splide__slide">slide 01</li>
+                <li class="splide__slide">slide 02</li>
+                <li class="splide__slide">slide 03</li>
+            </ul>
+        </div>
+        <h2 class="slider-title">Animes populaires</h2>
+
+    </div>
