@@ -1,4 +1,5 @@
     <div class="frise">
+        <img src="../asset/img/frise.png" alt="ma super frise" id="friseImg">
         <div id="links">
             <i class="fab fa-facebook"></i>
             <i class="fab fa-discord"></i>

@@ -68,5 +68,3 @@
         </div>
     </div>
 </div>
-<!-- * =>étoiles pour voter sur les animes-->
-<!--dans la page d'accueil se touvera  les articles aguicheurs : les + populaires (top 10), dernières sorties, en cours,action,drame-->

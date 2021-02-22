@@ -1,20 +1,191 @@
 <!--article-->
+<h2> Animes populaires</h2>
 <div class="splide">
     <div class="splide__track">
         <div class="splide__list">
+
             <div class="splide__slide">
                 <!-- image -->
-                <img src="/asset/img/img1.jpg">
+                <img src="/asset/img/img14.jpg" alt="photo14">
+                <div class="text">
+                    Naruto
+                    20 saisons
+                    <!--étoiles pour donner son avis-->
+                </div>
             </div>
+
             <div class="splide__slide">
                 <!-- image -->
-                <img src="/asset/img/img2.png">
+                <img src="/asset/img/img10.jpg" alt="photo10">
+                <div class="text">
+                    Lovely Complex
+                    1 saison
+                    <!--étoiles pour donner son avis-->
+                </div>
             </div>
+
             <div class="splide__slide">
                 <!-- image -->
-                <img src="/asset/img/img3.jpg">
+                <img src="/asset/img/img13.jpg" alt="photo13">
+                <div class="text">
+                    Bleach
+                    16 saisons
+                    <!--étoiles pour donner son avis-->
+                </div>
+            </div>
+
+            <div class="splide__slide">
+                <!-- image -->
+                <img src="/asset/img/img11.jpg" alt="photo11">
+                <div class="text">
+                     Kaichou wa Maid-Sama
+                     1 saison
+                </div>
+                <!--étoiles pour donner/voter son avis-->
+            </div>
+
+            <div class="splide__slide">
+                <!-- image -->
+                <img src="/asset/img/img12.jpg" alt="photo12">
+                <div class="text">
+                    Fairy Tail
+                    7 saisons
+                    <!--étoiles pour donner son avis-->
+                </div>
+            </div>
+
+            <div class="splide__slide">
+                <!-- image -->
+                <img src="/asset/img/img6.jpg" alt="photo6">
+                <div class="text">
+                    Blend's
+                    1 saison
+                    <!--étoiles pour donner son avis-->
+                </div>
+            </div>
+
+            <div class="splide__slide">
+                <!-- image -->
+                <img src="/asset/img/img7.jpg" alt="photo7">
+                <div class="text">
+                    The Asterisk War
+                    1 saison
+                    <!--étoiles pour donner son avis-->
+                </div>
+            </div>
+
+            <div class="splide__slide">
+                <!-- image -->
+                <img src="/asset/img/img8.jpg" alt="photo8">
+                <div class="text">
+                    Sword Art Online
+                    2 saisons
+                    <!--étoiles pour donner son avis-->
+                </div>
+            </div>
+
+            <div class="splide__slide">
+                <!-- image -->
+                <img src="/asset/img/img15.jpg" alt="photo15">
+                <div class="text">
+                    One peace
+                    20 saisons
+                    <!--étoiles pour donner son avis-->
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<h2>Animes en cours</h2>
+<div class="splide">
+    <div class="splide__track">
+        <div class="splide__list">
+
+            <div class="splide__slide">
+                <!-- image -->
+                <img src="/asset/img/img1.jpg" alt="photo1">
+                <div class="text">
+                    THe Rising of the Shield Hero
+                    2 saisons
+                    <!--étoiles pour donner son avis-->
+                </div>
+            </div>
+
+            <div class="splide__slide">
+                <!-- image -->
+                <img src="/asset/img/img2.png" alt="photo2">
+                <div class="text">
+                    Jujutsu Kaisen
+                    1 saison
+                </div>
+            </div>
+
+            <div class="splide__slide">
+                <!-- image -->
+                <img src="/asset/img/img3.jpg" alt="photo3">
+                <div class="text">
+                    The Promised Neverland
+                    2 saison>
+                </div>
+            </div>
+
+            <div class="splide__slide">
+                <!-- image -->
+                <img src="/asset/img/img4.jpg" alt="photo4">
+                <div class="text">
+                    Imagine un Cambrousard du Dernier Donjon dans la ville de départ
+                    1 saison
+                </div>
+            </div>
+
+            <div class="splide__slide">
+                <!-- image -->
+                <img src="/asset/img/img9.jpg" alt="photo9">
+                <div class="text">
+                    Mushoku Tensei: jobless reincarnation
+                    2 saison
+                </div>
+            </div>
+
+            <div class="splide__slide">
+                <!-- image -->
+                <img src="/asset/img/img16.jpg" alt="photo16">
+                <div class="text">
+                    Kemono Incident
+                    1 saison
+                </div>
             </div>
         </div>
     </div>
 </div>
 
+<h2>Animes à venir</h2>
+<div class="splide">
+    <div class="splide__track">
+        <div class="splide__list">
+
+            <div class="splide__slide">
+                <!--img-->
+            </div>
+
+            <div class="splide__slide">
+                <!--img-->
+            </div>
+
+            <div class="splide__slide">
+                <!--img-->
+            </div>
+            <div class="splide__slide">
+                <!--img-->
+            </div>
+            <div class="splide__slide">
+                <!--img-->
+            </div>
+            <div class="splide__slide">
+                <!--img-->
+            </div>
+        </div>
+    </div>
+</div>
