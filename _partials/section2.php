@@ -16,16 +16,6 @@
 
             <div class="splide__slide">
                 <!-- image -->
-                <img src="/asset/img/img10.jpg" alt="photo10">
-                <div class="text">
-                    Lovely Complex
-                    1 saison
-                    <!--étoiles pour donner son avis-->
-                </div>
-            </div>
-
-            <div class="splide__slide">
-                <!-- image -->
                 <img src="/asset/img/img13.jpg" alt="photo13">
                 <div class="text">
                     Bleach
@@ -88,8 +78,8 @@
                 <!-- image -->
                 <img src="/asset/img/img15.jpg" alt="photo15">
                 <div class="text">
-                    One peace
-                    20 saisons
+                    Arifureta Shokugyou de Sekai Saikyou
+                    1 saison
                     <!--étoiles pour donner son avis-->
                 </div>
             </div>
@@ -130,6 +120,33 @@
                 </div>
             </div>
 
+            <div class="splide__slide">
+                <!-- image -->
+                <img src="/asset/img/img27.jpg" alt="photo27">
+                <div class="text">
+                    Black Clover
+                    1 saison
+                </div>
+            </div>
+
+            <div class="splide__slide">
+                <!-- image -->
+                <img src="/asset/img/img30.jpg" alt="photo30">
+                <div class="text">
+                    Moi, quand je me réincarne en Slime
+                    2 saisons
+                </div>
+            </div>
+
+            <div class="splide__slide">
+                <!-- image -->
+                <img src="/asset/img/img30.jpg" alt="photo30">
+                <div class="text">
+                    Roku de Nashi Majutsu Kōshi to Akashic Records
+                    1 saison
+                </div>
+            </div>
+
         </div>
     </div>
 </div>
@@ -163,7 +180,7 @@
                 <img src="/asset/img/img3.jpg" alt="photo3">
                 <div class="text">
                     The Promised Neverland
-                    2 saison>
+                    2 saison
                 </div>
             </div>
 
@@ -190,6 +207,33 @@
                 <img src="/asset/img/img16.jpg" alt="photo16">
                 <div class="text">
                     Kemono Incident
+                    1 saison
+                </div>
+            </div>
+
+            <div class="splide__slide">
+                <!-- image -->
+                <img src="/asset/img/img32.jpg" alt="photo32">
+                <div class="text">
+                    Kono subarashii sekai ni shukufuku o!
+                    2 saisons
+                </div>
+            </div>
+
+            <div class="splide__slide">
+                <!-- image -->
+                <img src="/asset/img/img33.jpg" alt="photo33">
+                <div class="text">
+                    Isekai Cheat Magician
+                    1 saison
+                </div>
+            </div>
+
+            <div class="splide__slide">
+                <!-- image -->
+                <img src="/asset/img/img34.jpg" alt="photo34">
+                <div class="text">
+                    Hachi-nan tte, Sore wa Nai deshou!
                     1 saison
                 </div>
             </div>
@@ -228,6 +272,7 @@
                     2 saisons
                 </div>
             </div>
+
             <div class="splide__slide">
                 <!--img-->
                 <img src="/asset/img/img20.jpg" alt="photo20">
@@ -235,8 +280,8 @@
                     100-man no Inochi no Ue ni Ore wa Tatteiru
                     1 saison
                 </div>
-
             </div>
+
             <div class="splide__slide">
                 <!--img-->
                 <img src="/asset/img/img21.jpg" alt="photo21">
@@ -245,6 +290,7 @@
                     1 saison
                 </div>
             </div>
+
             <div class="splide__slide">
                 <!--img-->
                 <img src="/asset/img/img22.jpg" alt="photo22">
@@ -253,6 +299,26 @@
                     1 saison
                 </div>
             </div>
+
+                <div class="splide__slide">
+                    <!-- image -->
+                    <img src="/asset/img/img10.jpg" alt="photo10">
+                    <div class="text">
+                        Lovely Complex
+                        1 saison
+                        <!--étoiles pour donner son avis-->
+                    </div>
+                </div>
+
+                <div class="splide__slide">
+                    <!-- image -->
+                    <img src="/asset/img/img10.jpg" alt="photo10">
+                    <div class="text">
+                        In Another World With My Smartphone
+                        1 saison
+                        <!--étoiles pour donner son avis-->
+                    </div>
+                </div>
         </div>
     </div>
 </div>
