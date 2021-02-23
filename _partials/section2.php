@@ -157,6 +157,15 @@
                     1 saison
                 </div>
             </div>
+
+            <div class="splide__slide">
+                <!-- image -->
+                <img src="/asset/img/img16.jpg" alt="photo16">
+                <div class="text">
+                    Code Lyoko
+                    2 saisons
+                </div>
+            </div>
         </div>
     </div>
 </div>
@@ -168,23 +177,53 @@
 
             <div class="splide__slide">
                 <!--img-->
+                <img src="/asset/img/img17.jpg" alt="photo17">
+                <div class="text">
+                    Aldnoah Zero
+                    2 saisons
+                </div>
             </div>
 
             <div class="splide__slide">
                 <!--img-->
+                <img src="/asset/img/img18.jpg" alt="photo18">
+                <div class="text">
+                    Jigoku Shoujo "La fille des enfers"
+                    4 saisons
             </div>
 
             <div class="splide__slide">
                 <!--img-->
+                <img src="/asset/img/img19.jpg" alt="photo19">
+                <div class="text">
+                    Baka to Test to Shoukanjuu
+                    2 saisons
+                </div>
             </div>
             <div class="splide__slide">
                 <!--img-->
+                <img src="/asset/img/img20.jpg" alt="photo20">
+                <div class="text">
+                    100-man no Inochi no Ue ni Ore wa Tatteiru
+                    1 saison
+                </div>
+
             </div>
             <div class="splide__slide">
                 <!--img-->
+                <img src="/asset/img/img21.jpg" alt="photo21">
+                <div class="text">
+                    07-Ghost
+                    1 saison
+                </div>
             </div>
             <div class="splide__slide">
                 <!--img-->
+                <img src="/asset/img/img22.jpg" alt="photo22">
+                <div class="text">
+                    Claymore
+                    1 saison
+                </div>
             </div>
         </div>
     </div>
