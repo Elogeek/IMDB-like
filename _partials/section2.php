@@ -94,6 +94,42 @@
                 </div>
             </div>
 
+            <div class="splide__slide">
+                <!-- image -->
+                <img src="/asset/img/img16.jpg" alt="photo16">
+                <div class="text">
+                    Code Lyoko
+                    2 saisons
+                </div>
+            </div>
+
+            <div class="splide__slide">
+                <!-- image -->
+                <img src="/asset/img/img24.jpg" alt="photo24">
+                <div class="text">
+                    D.Gray-man
+                    1 saison
+                </div>
+            </div>
+
+            <div class="splide__slide">
+                <!-- image -->
+                <img src="/asset/img/img25.jpg" alt="photo25">
+                <div class="text">
+                    Gintama
+                    10 saisons
+                </div>
+            </div>
+
+            <div class="splide__slide">
+                <!-- image -->
+                <img src="/asset/img/img26.jpg" alt="photo26">
+                <div class="text">
+                    Death Note
+                    1 saison
+                </div>
+            </div>
+
         </div>
     </div>
 </div>
@@ -158,14 +194,6 @@
                 </div>
             </div>
 
-            <div class="splide__slide">
-                <!-- image -->
-                <img src="/asset/img/img16.jpg" alt="photo16">
-                <div class="text">
-                    Code Lyoko
-                    2 saisons
-                </div>
-            </div>
         </div>
     </div>
 </div>
