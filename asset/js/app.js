@@ -10,6 +10,6 @@ document.getElementById("exit").addEventListener("click", ()=>{
 // Splide
 new Splide( '.splide', {
     cover  : true,
-    height : '8rem',
+    height : '15%',
     perPage: 3,
 } ).mount();

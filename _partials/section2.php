@@ -1,5 +1,5 @@
 <!--article-->
-<h2> Animes populaires</h2>
+<h2 id="title1"> Animes populaires</h2>
 <div class="splide">
     <div class="splide__track">
         <div class="splide__list">
@@ -65,7 +65,7 @@
     </div>
 </div>
 
-<h2>Animes en cours</h2>
+<h2 id="title2">Animes en cours</h2>
 <div class="splide">
     <div class="splide__track">
         <div class="splide__list">
@@ -156,7 +156,7 @@
     </div>
 </div>
 
-<h2>Animes à venir</h2>
+<h2 id="title3">Animes à venir</h2>
 <div class="splide">
     <div class="splide__track">
         <div class="splide__list">
