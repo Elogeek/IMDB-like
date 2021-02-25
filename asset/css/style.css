@@ -422,4 +422,9 @@ h2 {
         width: 5rem;
         height: 43px;
     }
+
+    /*le barre de menu*/
+    #menu,#pro,#watchlist1, #signIn {
+        font-size: 1.4rem;
+    }
 }
