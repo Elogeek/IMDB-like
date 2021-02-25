@@ -8,8 +8,11 @@ document.getElementById("exit").addEventListener("click", ()=>{
 
 
 // Splide
-new Splide( '.splide', {
-    cover  : true,
-    height : '15%',
-    perPage: 3,
-} ).mount();
+const splides = document.getElementsByClassName('splide');
+for (let spl of splides) {
+    new Splide( spl, {
+        cover  : true,
+        height : '20%',
+        perPage: 3,
+    } ).mount();
+}

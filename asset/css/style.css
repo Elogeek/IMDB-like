@@ -21,7 +21,7 @@ nav {
     display: flex;
     flex-flow: row nowrap;
     width: 100%;
-    height: 60px;
+    height: 68px;
     color: white;
     background-color: #1f1f1f;
     justify-content: center;
@@ -287,6 +287,7 @@ ul li {
     left: 0;
     width: 100%;
     height: 13rem;
+    margin-top: 65px;
 }
 
 /*links and author site :) */
@@ -341,14 +342,84 @@ h2 {
 }
 
 #title1,#title2,#title3 {
-    margin-top: 25px;
+    margin-top: 15px;
 }
+
 .text {
     position:fixed;
-    top: 200px;
+    top: 0;
     margin-left: 13px;
-    color:darkorange;
-    font-weight: bold;
-    font-size: x-large;
+    color: #323232;
+    font-weight: bolder;
+    font-size: 14px;
+}
 
+/*les 2 points*/
+.splide__pagination__page.is-active {
+    transform: scale(1.4);
+    background: #23b5b5;
+}
+
+/*les flèches*/
+.splide__arrow--prev svg {
+    transform: scaleX(-1);
+}
+.splide__arrow svg {
+    width: 1.2em;
+    height: 1.2em;
+}
+
+svg {
+    vertical-align: baseline;
+}
+
+.splide svg {
+    overflow: hidden;
+    background-color:#23b5b5;
+}
+
+.splide {
+    margin: 20px;
+}
+
+h2 {
+    margin-left: 10px;
+}
+
+/* responsive*/
+@media screen and (max-width: 1000px) {
+    .frise, .synopsis-image {
+        display: none;
+    }
+
+    .container-carousel {
+        width: 95%;
+        margin: 6rem auto;
+    }
+
+    .synopsis-container {
+        display: inline-block;
+        width: 100%;
+        margin-top: 8px;
+    }
+    .logo {
+        height:5vw;
+    }
+    #firstRow {
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: space-between;
+        font-size: small;
+    }
+    #container h1 {
+        font-size: 17px;
+        font-weight: bold;
+        justify-content: center;
+        display: flex;
+    }
+
+    #logoMenu {
+        width: 5rem;
+        height: 43px;
+    }
 }
