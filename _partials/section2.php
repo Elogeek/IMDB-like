@@ -16,6 +16,15 @@
 
             <div class="splide__slide">
                 <!-- image -->
+                <img src="/asset/img/codeYoko.jpg" alt="photomanga4">
+                <div class="text">
+                    Code Lyoko
+                    2 saisons
+                </div>
+            </div>
+
+            <div class="splide__slide">
+                <!-- image -->
                 <img src="/asset/img/fairytail.jpg" alt="photomanga2">
                 <div class="text">
                     Fairy Tail
@@ -31,15 +40,6 @@
                     Sword Art Online
                     2 saisons
                     <!--étoiles pour donner son avis-->
-                </div>
-            </div>
-
-            <div class="splide__slide">
-                <!-- image -->
-                <img src="/asset/img/codeYoko.jpg" alt="photomanga4">
-                <div class="text">
-                    Code Lyoko
-                    2 saisons
                 </div>
             </div>
 
@@ -180,11 +180,12 @@
             </div>
 
             <div class="splide__slide">
-                <!--img-->
-                <img src="/asset/img/07-Ghost.jpg" alt="photomanga18">
+                <!-- image -->
+                <img src="/asset/img/lovelyComplex.jpg" alt="photomanga20">
                 <div class="text">
-                    07-Ghost
+                    Lovely Complex
                     1 saison
+                    <!--étoiles pour donner son avis-->
                 </div>
             </div>
 
@@ -197,15 +198,14 @@
                 </div>
             </div>
 
-                <div class="splide__slide">
-                    <!-- image -->
-                    <img src="/asset/img/lovelyComplex.jpg" alt="photomanga20">
-                    <div class="text">
-                        Lovely Complex
-                        1 saison
-                        <!--étoiles pour donner son avis-->
-                    </div>
+            <div class="splide__slide">
+                <!--img-->
+                <img src="/asset/img/07-Ghost.jpg" alt="photomanga18">
+                <div class="text">
+                    07-Ghost
+                    1 saison
                 </div>
+            </div>
 
                 <div class="splide__slide">
                     <!-- image -->
